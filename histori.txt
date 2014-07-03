@@ -1,0 +1,113 @@
+    1  aptitude search apache
+    2  aptitude install apache2
+    3  aptitude install postgresql pgadmin php5 phppgadmin
+    4  aptitude update
+    5  aptitude update
+    6  aptitude upgrade
+    7  aptitude install recordmydesktop 
+    8  aptitude install jclic
+    9  aptitude install gtk-recordmydesktop
+   10  aptitude reinstall recordmydesktop
+   11  aptitude update
+   12  aptitude upgrade
+   13  aptitude remove recordmydesktop && aptitude purge recordmydesktop 
+   14  aptitude update
+   15  aptitude upgrade
+   16  aptitude install recordmydesktop && aptitude install gtk-recordmydesktop 
+   17  aptitude update
+   18  aptitude upgrade
+   19  aptitude install apache2
+   20  aptitude install postgresql pgadmin php5 phppgadmin
+   35  aptitude search php-xmlrpc
+   36  aptitude install php-xmlrpc
+   37  aptitude install cdrdao
+   38  aptitude install flashplugin-nonfree
+   39  nano /etc/apt/sources.list
+   40  aptitude update 
+   41  aptitude install linux-image-3.11
+   42  nano /etc/apt/sources.list
+   43  aptitude install ocrfeeder
+   44  nano /etc/apt/sources.list
+   45  aptitude update 
+   46  aptitude full-upgrade
+   47  aptitude update
+   48  aptitude full-upgrade
+   49  aptitude install -f
+   50  /etc/apt/sources.list
+   51  nano /etc/apt/sources.list
+   52  apt-get install -f
+   53  nano /etc/apt/sources.list
+   54  nano /etc/apt/sources.list
+   55  apt-get install -f
+   56  apt-get install canaima-fuentes-extras gedit-common gir1.2-gucharmap-2.90 gnome-js-common
+   71  apt-get install gpaint libglade2-0 libgoocanvas-common libgoocanvas3 libgtkspell0 liblept3 libpeas-common libreoffice-gnome libreoffice-gtk libreoffice-pdfimport libreoffice presentation-minimizer libseed-gtk3-0 libtesseract3 libwebp2 media-player-info python-enchant python-gtkspell python-imaging-sane python-reportlab rhythmbox-data tesseract-ocr tesseract-ocr-eng tesseract-ocr-equ tesseract-ocr-osd totem-common
+   72  apt-get install gpaint libglade2-0
+   74  aptitude update
+   75  aptitude upgrade
+  102  aptitude search gcc
+  103  apt-get install gcc-4.7
+  105  aptitude search gcc
+  109  aptitude search gcc
+  110  apt-get install gcc
+  117  apt-get install gdb
+  118  aptitude search libc
+  128  aptitude search libc
+  129  apt-get install libc6-dev
+  135  apt-get install make
+  136  apt-get install build-essential 
+  148  apt-get install gcc-doc
+  154  apt-get install geany
+  155  aptitude search geany
+  156  apt-get install geany-plugins-common 
+  157  apt-get install anjunta
+  158  apt-get install anjuta
+  159  apt-get install anjuta libgdl-3-common libgdl-3-2 libsvn1 libvala-0.16-0 python2.7-minimal python2.7 anjuta-common libanjuta-3-0 devhelp-common libdevhelp-3-0
+  162  apt-get install anjuta libgdl-3-common libgdl-3-2 libsvn1 libvala-0.16-0 python2.7-minimal python2.7 anjuta-common libanjuta-3-0 devhelp-common libdevhelp-3-0
+  163  apt-get install libgdl-3-common libgdl-3-2 libsvn1 libvala-0.16-0 python2.7-minimal python2.7 anjuta-common libanjuta-3-0 devhelp-common libdevhelp-3-0
+  164  apt-get install libgdl-3-common libgdl-3-2
+  165  apt-get install libgdl-3-2 libsvn1 
+  166  apt-get install libvala-0.16-0
+  167  apt-get install python2.7-minimal 
+  168  apt-get install 
+  177  apt-get install gcc
+  304  apt-get install gdb
+  342  aptitude search git
+  343  aptitude install git 
+  368  nano /etc/apt/sources.list
+  369  aptitude update
+  370  nano /etc/apt/sources.list
+  371  aptitude update
+  372  nano /etc/apt/sources.list
+  373  aptitude update
+  374  nano /etc/apt/sources.list
+  375  aptitude update
+  376  nano /etc/apt/sources.list
+  377  aptitude update
+  378  nano /etc/apt/sources.list
+  379  aptitude update
+  380  nano /etc/apt/sources.list
+  381  aptitude update
+  386  apt-get source sl
+  388  aptitude install sl
+  390  aptitude install build-essential dpkg-dev
+  391  aptitude search build-essential dpkg-dev
+  392  aptitude remove sl
+  393  aptitude install sl
+  394  aptitude remove --purge sl
+  395  aptitude search perl
+  397  aptitude show sl
+  398  aptitude install bb
+  399  aptitude search bb > bb.txt
+  408  apt-get source bb
+  423  aptitude source sl
+  424  apt-get source sl
+  428  apt-get source sl
+  434  aptituce instal cdbs debhelper libncurses5-dev 
+  435  aptitude instal cdbs debhelper libncurses5-dev 
+  436  aptitude install cdbs debhelper libncurses5-dev 
+  466  apt-get source bmon
+  489  nano /etc/apt/sources.list
+  493  history | grep apt
+  494  history | grep aptitude
+  495  history | grep apt
+  496  history | grep apt > histori.txt
