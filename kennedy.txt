@@ -1,0 +1,44 @@
+apt-get source nombre de paquete
+
+ aptitude install build-essential dpkg-dev
+aptitude show sl
+dpkg -l
+
+
+
+
+
+
+  428  apt-get source sl
+  429  ls
+  430  cd sl-3.03/
+  431  ls
+  432  nano sl.h
+  433  dpkg-buildpackage -us -uc
+  434  aptituce instal cdbs debhelper libncurses5-dev 
+  435  aptitude instal cdbs debhelper libncurses5-dev 
+  436  aptitude install cdbs debhelper libncurses5-dev 
+  437  dpkg-buildpackage -us -uc
+  438   dpkg-source --commit
+  439   dpkg-source --commit
+  440  dpkg-buildpackage -us -uc
+  441  ls
+  442   dpkg-source --commit
+  443  dpkg-buildpackage -us -uc
+  444  cd ..
+  445  ls
+  446  dpkg -i sl_3.03-17_i386.deb 
+
+
+https://try.github.io/levels/1/challenges/1
+
+
+
+
+
+
+
+
+
+
+history | grep apt

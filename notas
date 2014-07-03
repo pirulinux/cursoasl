@@ -1,0 +1,40 @@
+pwd nombre del directorio actual
+sort ordenar ficheros 
+
+tailf ver log mientras estos estan en funcionamiento
+
+
+
+github
+
+
+  219  mkdir control
+  220  cd control/
+  221  touch README.md
+  222  git init
+  223  ls -ls
+  224  ls -la
+  225  git add README.md
+  226  git commit -m "first commit"
+  227  git remote add origin https://github.com/pirulinux/cursoasl.git
+  228  git push -u origin master
+  229  nano README.md 
+  230  git commit -a
+  231  man git
+  232  git push
+  233  history 
+  234  mkdir prueba
+  235  cd prueba/
+  236  git clone https://github.com/planetalinux/planetalinux.git
+  237  cd planetalinux/
+
+
+/sbin/irconfig
+
+
+
+debmirror  --host=ftp.debian.org --root=debian   --cleanup  --nosource --progress --ignore-release-gpg --arch=i386 --dist=stable --method=http --section=main /home/usuario/debian
+
+nano /etc/hosts 
+ip alias
+chromtab -e
