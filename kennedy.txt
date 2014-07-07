@@ -37,7 +37,11 @@ https://try.github.io/levels/1/challenges/1
 torify icewicel
 
 crear imagen de disco con dd 
-tesdisk photorec  foremost  
+tesdisk photorec  foremost 
+
+
+
+ c-s-gui              interfas para canaima semilla
 
 
 
