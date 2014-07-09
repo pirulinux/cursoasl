@@ -46,3 +46,7 @@ tesdisk photorec  foremost
 
 
 history | grep apt
+
+
+
+live-build erramienta para crear distros a medida 
