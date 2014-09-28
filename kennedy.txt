@@ -3,7 +3,7 @@ apt-get source nombre de paquete
  aptitude install build-essential dpkg-dev
 aptitude show sl
 dpkg -l
-
+modificando
 
 
 
